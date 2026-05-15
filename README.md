@@ -24,6 +24,8 @@ The page is just HTML, CSS, JavaScript, JSON-shaped data, and poster files. Ther
 
 You can drag through eras, zoom poster sizes, and hover a film to see its release year, directors, genres, rating, source, and confidence.
 
+![Future era preview](assets/readme-future.png)
+
 ## What can you do with this?
 
 Besides playing around and noticing that Aladdin and Spartacus are set surprisingly close to each other, you could use this repo, or a similar UI, for other timeline projects:
