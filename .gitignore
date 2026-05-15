@@ -1,0 +1,5 @@
+.vercel
+
+# project-cleanup:start
+_archived/
+# project-cleanup:end
