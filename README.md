@@ -4,9 +4,9 @@
 Ancient history, recent memory, imaginary futures, all on the same line.</p>
 
 <p>
-  <img src="https://img.shields.io/badge/films-506-lightgrey" alt="506 films">
-  <img src="https://img.shields.io/badge/eras-13-blue" alt="13 eras">
-  <img src="https://img.shields.io/badge/runtime-static_HTML-orange" alt="Static HTML">
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e" alt="JavaScript">
+  <img src="https://img.shields.io/badge/CSS-1572b6" alt="CSS">
+  <img src="https://img.shields.io/badge/HTML-e34f26" alt="HTML">
 </p>
 
 <p><a href="https://timeline-vercel-sigma.vercel.app">Live site</a> · <a href="https://cinemateca.co">Cinemateca</a></p>
