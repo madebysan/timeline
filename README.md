@@ -7,10 +7,9 @@ Ancient history, recent memory, imaginary futures, all on the same line.</p>
   <img src="https://img.shields.io/badge/JavaScript-f7df1e" alt="JavaScript">
   <img src="https://img.shields.io/badge/CSS-1572b6" alt="CSS">
   <img src="https://img.shields.io/badge/HTML-e34f26" alt="HTML">
-  <img src="https://img.shields.io/badge/Vercel-000000" alt="Vercel">
 </p>
 
-<p><a href="https://timeline-vercel-sigma.vercel.app">Live site</a> · <a href="https://cinemateca.co">Cinemateca</a></p>
+<p><a href="https://cinemateca.co/timeline">Live site</a> · <a href="https://cinemateca.co">Cinemateca</a></p>
 
 ![Timeline preview](assets/hero.jpg)
 
